@@ -1,0 +1,38 @@
+[
+  {
+    "ZT": 1,
+    "sample": "cFT01a_S51",
+    "status": "optimal",
+    "max_butyrate_mmol_gDW_h": 2.933122337533511
+  },
+  {
+    "ZT": 5,
+    "sample": "cFT05a_S52",
+    "status": "optimal",
+    "max_butyrate_mmol_gDW_h": 2.8430556394559234
+  },
+  {
+    "ZT": 9,
+    "sample": "cFT09a_S53",
+    "status": "optimal",
+    "max_butyrate_mmol_gDW_h": 2.7699448018435673
+  },
+  {
+    "ZT": 13,
+    "sample": "cFT13a_S48",
+    "status": "optimal",
+    "max_butyrate_mmol_gDW_h": 2.622833784121396
+  },
+  {
+    "ZT": 17,
+    "sample": "cFT17a_S49",
+    "status": "optimal",
+    "max_butyrate_mmol_gDW_h": 3.159240753955197
+  },
+  {
+    "ZT": 21,
+    "sample": "cFT21a_S50",
+    "status": "optimal",
+    "max_butyrate_mmol_gDW_h": 3.5365855726971023
+  }
+]

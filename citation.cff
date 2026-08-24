@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this pipeline or its results, please cite the original data source alongside this repository."
+title: "Systems-Level Diurnal Metabolic Modeling of Host-Microbiome Interactions"
+authors:
+  - family-names: "Ceren"
+date-released: 2026-08-15
+license: MIT
+repository-code: "https://github.com/ahsenceren/systems-diurnal-host-microbiome"
+references:
+  - type: article
+    authors:
+      - family-names: "Flores Ramos"
+        given-names: "Stephany"
+    title: "Metatranscriptomics uncovers diurnal functional shifts in bacterial transgenes with profound metabolic effects"
+    journal: "Cell Host & Microbe"
+    year: 2025

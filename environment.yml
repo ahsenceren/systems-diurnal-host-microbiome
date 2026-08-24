@@ -1,0 +1,19 @@
+name: bioinfo_asia
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - scipy
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - jupyter
+  - openpyxl
+  - cobra
+  - unzip
+  - ncbi-datasets-cli
+  - carveme
+  - prokka
+  - diamond
+prefix: /home/aceren/anaconda3/envs/bioinfo_asia
